@@ -4,59 +4,59 @@
 ##Todoist
 
 [Link](https://todoist.com/android)
-![Todoist](/Users/lalogf/Documents/Freelance/smartcall/todoist.png)
+![Todoist](https://raw.githubusercontent.com/lalogf/smartcall/master/todoist.png)
 
 
 ## Periscope
 
 [Link](https://www.periscope.tv/)
-![](/Users/lalogf/Documents/Freelance/smartcall/periscope.png)
+![](https://raw.githubusercontent.com/lalogf/smartcall/master/periscope.png)
 
 ## Google duo
 
 [Link](https://duo.google.com/?ref=producthunt)
-![](/Users/lalogf/Documents/Freelance/smartcall/googleduo.png)
+![](https://raw.githubusercontent.com/lalogf/smartcall/master/googleduo.png)
 
 
 ## Neubible
 
 [Link](http://neubible.co/)
-![](/Users/lalogf/Documents/Freelance/smartcall/neubible1.png)
-![](/Users/lalogf/Documents/Freelance/smartcall/neubible2.png)
+![](https://raw.githubusercontent.com/lalogf/smartcall/master/neubible1.png)
+![](https://raw.githubusercontent.com/lalogf/smartcall/master/neubible2.png)
 
 ## Fiverr Faces
 
 [Link](https://faces.fiverr.com/)
-![](/Users/lalogf/Documents/Freelance/smartcall/fiverr_faces.png)
+![](https://raw.githubusercontent.com/lalogf/smartcall/master/fiverr_faces.png)
 
 
 ## Pic to fit
 
 [Link](http://product-hunt.pictofit.com/?ref=producthunt)
-![](/Users/lalogf/Documents/Freelance/smartcall/pictofit.png)
+![](https://raw.githubusercontent.com/lalogf/smartcall/master/pictofit.png)
 
 
 ## Overcast
 
 [Link](https://overcast.fm/)
-![](/Users/lalogf/Documents/Freelance/smartcall/overcast.png)
+![](https://raw.githubusercontent.com/lalogf/smartcall/master/overcast.png)
 
 
 ## Venmo
 
 [Link](https://venmo.com/)
-![](/Users/lalogf/Documents/Freelance/smartcall/venmo.png)
+![](https://raw.githubusercontent.com/lalogf/smartcall/master/venmo.png)
 
 
 ## Mylo
 
 [Link](http://okmylo.com/)
-![](/Users/lalogf/Documents/Freelance/smartcall/mylo.png)
+![](https://raw.githubusercontent.com/lalogf/smartcall/master/mylo.png)
 
 
 ## Nucleus
 
 [Link](http://www.meetnucleus.com/?ref=producthunt)
-![](/Users/lalogf/Documents/Freelance/smartcall/nucleus.png)
+![](https://raw.githubusercontent.com/lalogf/smartcall/master/nucleus.png)
 
 
